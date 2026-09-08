@@ -1,0 +1,16 @@
+{
+  "sistema": "conta-azul",
+  "baseUrl": "https://api.contaazul.com",
+  "auth": {
+    "tipo": "oauth2",
+    "clientId": "PREENCHA_SEU_CLIENT_ID",
+    "clientSecret": "PREENCHA_SEU_CLIENT_SECRET",
+    "refreshToken": "PREENCHA_SEU_REFRESH_TOKEN",
+    "tokenUrl": "https://api.contaazul.com/oauth2/token"
+  },
+  "empresa": {
+    "nome": "Sua Empresa",
+    "regimeTributario": "simples-nacional",
+    "moeda": "BRL"
+  }
+}
